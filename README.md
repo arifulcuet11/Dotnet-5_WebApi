@@ -6,7 +6,7 @@ It is three layer project architecture, It will be help anyone to learn how to d
 4. Webapp layer (Includes all controllers)
 
 # DotnetCore3.1 Identy Server
-1. implemented signup and login using itentity framqork
+1. implemented signup and login using itentity framework
 2. Implemented user role
 you can find thoes account and role controller 
 

@@ -10,5 +10,5 @@ It is three layer project architecture, It will be help anyone to learn how to d
 2. Implemented user role
 you can find thoes account and role controller 
 
-# JWT Webtoken
+# JWT Web token
 for token generating, I have used JWT webtoken 

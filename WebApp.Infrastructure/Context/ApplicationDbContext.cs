@@ -16,11 +16,14 @@ namespace WebApp.Infrastructure.Context
             
         }
 
-        public DbSet<Test> Tests { get; set; }
-
+       
         protected override void OnModelCreating(ModelBuilder builder)
         {
             base.OnModelCreating(builder);
         }
+
+        public DbSet<Test> Tests { get; set; }
+        public DbSet<WebAddress> WebAddresses { get; set; }
+
     }
 }
